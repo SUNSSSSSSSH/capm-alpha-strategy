@@ -77,4 +77,4 @@ This project is an educational quantitative research exercise. The results are h
 
 ## Cumulative Performance
 
-![CAPM Alpha Strategy vs S&P 500](figures/cumulative_returns.png)
+![CAPM Alpha Strategy vs S&P 500](main/cumulative_returns.png)
