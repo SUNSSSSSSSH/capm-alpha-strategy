@@ -74,3 +74,7 @@ Python, Pandas, NumPy, Statsmodels, Matplotlib and yfinance.
 ### Disclaimer
 
 This project is an educational quantitative research exercise. The results are hypothetical historical backtests and should not be interpreted as verified, implementable investment performance or investment advice.
+
+## Cumulative Performance
+
+![CAPM Alpha Strategy vs S&P 500](figures/cumulative_returns.png)
